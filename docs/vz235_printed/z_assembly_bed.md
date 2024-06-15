@@ -52,9 +52,9 @@ Vz235 Build Part 2: The Z-axis
 | M4 t-nut                            | 47       | -                                                         |
 | M5/M6 20mm                          | 2        | Depending on extrusion type                               |
 | M5 10/8mm                           | 8        | Depending on the 2020 corner bracket                      |
-| 2020 corner bracket                 | 4        | -                                                         |
-| 245mm 2020 extrusion                | 2        | -                                                         |
-| 232mm 2020 extrusion                | 2        | -                                                         |
+| 2020 corner bracket                 | 4        | Only blind corner brackets                                |
+| 245mm 2020 extrusion                | 2        | Front and back                                            |
+| 232mm 2020 extrusion                | 2        | Left and right                                            |
 | 300mm leadscrew T8                  | 2        | -                                                         |
 | Leadscrew nut                       | 2        | -                                                         |
 | 300mm 10mm smooth rod               | 4        | Optional size, also supports 8 and 12mm as found on VZ330 |
@@ -72,10 +72,10 @@ Vz235 Build Part 2: The Z-axis
 
 | File name                                                                                                                                                  | Amount to print |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z lower rod mount main</a>       | 4               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z lower rod mount clamp</a>      | 4               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z upper rod mount main</a>       | 4               |
-| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Z upper rod mount clamp</a>      | 4               |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Z-Assembly/parts%20to%20print%202%20%26%204%20times/lower%20rod%20mount%20main.stl" target="_blank">Z lower rod mount main</a>       | 4               |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Z-Assembly/parts%20to%20print%202%20%26%204%20times/lower%20rod%20mount%20clamp.stl" target="_blank">Z lower rod mount clamp</a>      | 4               |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Z-Assembly/parts%20to%20print%202%20%26%204%20times/upper%20rod%20mount%20main.stl" target="_blank">Z upper rod mount main</a>       | 4               |
+| <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Z-Assembly/parts%20to%20print%202%20%26%204%20times/upper%20rod%20mount%20clamp.stl" target="_blank">Z upper rod mount clamp</a>      | 4               |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Single z motor bracket upper</a> | 1               |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Single z motor bracket lower</a> | 1               |
 | <a href="https://github.com/VzBoT3D/VzBoT-Vz235/blob/main/Assemblies%20%26%20STL/Frame/Frame%20brace.stl" target="_blank">Lead screw upper bracket</a>     | 2               |
